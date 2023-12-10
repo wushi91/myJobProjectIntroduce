@@ -1,0 +1,1 @@
+import{_ as o,o as t,c as a,p as c,a as d,b as _}from"./index-95b69bed.js";const s=e=>(c("data-v-1d78192a"),e=e(),d(),e),n={class:"page"},p=s(()=>_("h1",null,"首页",-1)),i=s(()=>_("h2",null,"正在改造中，请等待作者更新。",-1)),l=[p,i],r={__name:"index",setup(e){return(h,u)=>(t(),a("div",n,l))}},m=o(r,[["__scopeId","data-v-1d78192a"]]);export{m as default};
